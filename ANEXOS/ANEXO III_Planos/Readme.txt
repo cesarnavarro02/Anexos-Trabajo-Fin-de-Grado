@@ -1,0 +1,1 @@
+En este Anexo se encuentra el plano del perfil acotado con sus cotas en milímetros. El documento tiene el nombre de DibujoAla.pdf
