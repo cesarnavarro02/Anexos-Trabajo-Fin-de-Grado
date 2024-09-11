@@ -1,0 +1,10 @@
+Este es el anexo de códigos. En él se encuentran todos los scripts realizados durante la elaboración del TFG.  
+A continuación, se enumeran estos programas junto con una pequeña descripción:
+
+- **GeneradorPerfilNACA.py**: Este programa genera un archivo ".stl" en el cual se encuentra el perfil NACA de cuatro dígitos del código que ha sido introducido por el usuario.
+
+- **ProgramaPlaca.py**: Este es el programa que gobierna el funcionamiento de la Raspberry Pi.
+
+- **GeneradorBlandAltman.py**: Este programa genera un gráfico Bland-Altman de las mediciones de presión.
+
+- **GeneradorGraficasCp.py**: Este es el programa que elabora la gráfica de coeficientes de presión.
