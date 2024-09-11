@@ -16,14 +16,14 @@ import matplotlib.pyplot as plt
 x_c = [0.2, 0.4, 0.6, 0.8]
 
 # Eje y: Cp para diferentes ángulos de ataque
-cp_0_1 = [-0.59, -0.56, -0.35, -0.29]      #intradós
-cp_0_2 = [-0.97, -0.58, -0.37, -0.32]      #Extradós
-cp_5_1 = [-12.63, -10.68, -8.83, -7.76]    #intradós
-cp_5_2 = [-7.16, -7.6, -6.84, -7.03]       #Extradós
-cp_10_1 = [-11.88, -9.01, -7.42, -6.30]    #intradós
-cp_10_2 = [-4.28, -5.29, -5.36, -5.29]     #Extradós
-cp_15_1 = [-13.79, -9.67, -7.81, -6.92]    #intradós
-cp_15_2 = [-2.35, -4.73, -5.29, -5.15]     #Extradós
+cp_0_1 = [-0.47, -0.32, -0.18, -0.18]      #Valores para los cuatro sensores del intradós
+cp_0_2 = [-0.76, -0.32, -0.18, -0.18]      #valores para los cuatro sensores del extradós
+cp_5_1 = [-0.91, -0.62, -0.32, -0.18]    #Valores para los cuatro sensores del intradós
+cp_5_2 = [-0.03, -0.18, -0.18, -0.18]       #valores para los cuatro sensores del extradós
+cp_10_1 = [-1.06, -0.76, -0.18, -0.18]    #Valores para los cuatro sensores del intradós
+cp_10_2 = [0.12, -0.03, -0.03, -0.03]     #valores para los cuatro sensores del extradós
+cp_15_1 = [-1.64, -0.76, -0.47, -0.32]    #Valores para los cuatro sensores del intradós
+cp_15_2 = [0.56, 0.12, -0.03, -0.03]     #valores para los cuatro sensores del extradós
 
 # Crear la figura y los ejes
 plt.figure(figsize=(8, 5))
